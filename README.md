@@ -1,16 +1,15 @@
 # Hi there 👋 I'm Augrotto
-> Computer Science Undergraduate @ GDUT | Full-stack & Hardware Enthusiast
+> Computer Science Undergraduate | Full-stack
 
 ## 🧰 Tech Stack
-**Languages**：Java, Python, C, JavaScript
+**Languages**：Java, Python, C++
 **Backend**：SpringBoot, Redis, MySQL
 **Frontend**：Vue, HTML/CSS
-**Tools & Others**：Git, Linux, Docker, RAG, Network Security, Hardware Description
+**Tools & Others**：Git, Linux, Docker, RAG, Agent
 
 ## 🎯 Current Focus
 - Java algorithm practice & backend knowledge consolidation
-- Research on RAG and LLM application
-- Hardware experiments and embedded learning
+- Research on RAG and Agent application
 - Preparing for developer internship
 
 ## 📂 Featured Projects
