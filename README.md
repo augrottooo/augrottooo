@@ -13,7 +13,7 @@
 - Preparing for developer internship
 
 ## 📂 Featured Projects
-- [FarmShop](https://github.com/augrottooo/farm_shop)：For the platform's agricultural procurement scenario, the system provides users with capabilities for agricultural product browsing, specification selection, cart addition and order placement. For the admin side, it supports management of goods, SKUs, inventory, categories and orders. The focus of the project evolution is not simply renaming entities, but transforming the original "inventory-less catering commodity" into a commodity model with SKU support, inventory tracking and inventory fluctuation logging.
+- [FarmShop](https://github.com/augrottooo/farm_shop)：A front-end and back-end separated platform built on Spring Boot. It implements core business workflows including agricultural product management, SKU specifications, inventory deduction, shopping cart, order fulfillment, coupons and simulated logistics. The main technical practices focus on inventory deduction, order state machine, cache and authentication modules.
 
 ## 📫 Contact
 - Email: 936261644@qq.com
